@@ -1,0 +1,9 @@
+-ok, so, we need to create our backend site for the mountain website, but the wikipedia apis might be down? I'm not sure, but we'll work
+on this until it's up, then we need to get it up, and create the setInterval function on it as well
+-for this SW site, let's put everything (except Notes) into a public folder (including script.js), then create the package.json, Procfile
+and server.js file and put this one up. It should be fast since this is only front end.
+-ok, so the heroku local works, and we read through all the pages, and made some edits, so it reads a lot better now. So this page is
+essentially done, but there is one thing, we are using the scroll boxes, but they don't make sense in the context of a one column page,
+so can we change the equipment page to have multiple columns for the content?
+-so, we were able to google and get the 4 column code, but the columns seemed stuck to each other and pretty bad, so then we noticed that it had padding on one of the examples, so we do "padding: 10 px", but that wasn't even noticeable. However, "padding: 50 px" was and made the columns look a lot better. Let's review the pages, then upload this.
+-alright, we've proofread the content a second time, and made more changes, I think we can upload now

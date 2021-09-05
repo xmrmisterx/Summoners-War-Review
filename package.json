@@ -1,0 +1,14 @@
+{
+  "name": "summoner_war_fansite",
+  "version": "1.0.0",
+  "description": "SW fansite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Bobby Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.2"
+  }
+}
