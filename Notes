@@ -7,3 +7,5 @@ essentially done, but there is one thing, we are using the scroll boxes, but the
 so can we change the equipment page to have multiple columns for the content?
 -so, we were able to google and get the 4 column code, but the columns seemed stuck to each other and pretty bad, so then we noticed that it had padding on one of the examples, so we do "padding: 10 px", but that wasn't even noticeable. However, "padding: 50 px" was and made the columns look a lot better. Let's review the pages, then upload this.
 -alright, we've proofread the content a second time, and made more changes, I think we can upload now
+- after 'heroku create', our APP ADDRESS: https://warm-garden-39926.herokuapp.com/ and APP GIT ADDRESS: 
+https://git.heroku.com/warm-garden-39926.git, ok, it's up and running and everything is running great
